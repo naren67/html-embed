@@ -1,0 +1,12 @@
+music
+<embed src="./music/Butterfly.mp3" autoplay="true" loop="true" width="0" height="0">
+
+option 2 not working
+ <!-- <audio controls autoplay loop>
+                        <source src="./music/nike.mp3" type="audio/mpeg"/>
+                        Your browser does not support the HTML5 audio tag. Consider updating to a newer browser.
+                       </audio> -->
+
+logo
+inside the head tag
+<link rel="shortcut icon" type="image" href="./images/title-logo.svg">
